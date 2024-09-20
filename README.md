@@ -36,7 +36,7 @@ It removes all existing songs from a specified YouTube Music playlist and then a
 
 3. Run the script:
    ```bash
-   python sync.py
+   python script.py
    ```
 
 ## Disclaimer
